@@ -1,0 +1,18 @@
+.panda-bg-color{
+    background-color:#feeae9 ;
+}
+.panda-btn-color{
+    background-color: #ff5699;
+    color:white;
+}
+.main{
+    position: relative;
+    overflow: hidden;
+}
+.focus{
+    transition: transform 0.3s 0s;
+}
+.focus:hover{
+    
+    transform: scale(1.05);
+}
